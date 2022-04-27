@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - FinalDoor
+  - Camera
+  - Box
+  - Enemy
+  - Battery
+  - Pills
+  - Weapon
+  - Key
+  - DoorKey
+  - Kit
+  - DoorKey2
+  - Key2
+  - FinalKey
+  - SaveGame
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Decoration
+  - Zombie
+  - Player
+  - NotCollision
+  - Item
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
